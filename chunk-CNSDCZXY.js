@@ -1,1 +1,0 @@
-import"./chunk-7CGTOI24.js";var t=[{path:"",children:[{path:"icons",loadComponent:()=>import("./chunk-OHA4D7MN.js").then(o=>o.AppIcons)},{path:"sample-page",loadComponent:()=>import("./chunk-V62LGV47.js").then(o=>o.AppSamplePage)},{path:"not-found",loadComponent:()=>import("./chunk-WNV74POP.js").then(o=>o.NotFound)}]}];export{t as ExtraRoutes};

@@ -1,1 +1,0 @@
-import"./chunk-7CGTOI24.js";var a=[{path:"",loadComponent:()=>import("./chunk-2WE46SVQ.js").then(t=>t.Starter),data:{title:"Dashboard"}},{path:"analytics",loadComponent:()=>import("./chunk-WGCOG3H7.js").then(t=>t.Analytics),data:{title:"Analytics"}}];export{a as DashboardRoutes};

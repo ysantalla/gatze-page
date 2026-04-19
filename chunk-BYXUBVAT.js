@@ -1,0 +1,1 @@
+import"./chunk-7CGTOI24.js";var o=[{path:"",children:[{path:"profile",loadComponent:()=>import("./chunk-HTH52BZ7.js").then(t=>t.Profile),data:{title:"Profile"}},{path:"notifications",loadComponent:()=>import("./chunk-YEAYFOEW.js").then(t=>t.Notifications),data:{title:"Notifications"}}]}];export{o as AccountRoutes};
